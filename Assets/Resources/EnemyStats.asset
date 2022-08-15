@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ec032ac9790b4447880bed21e311722, type: 3}
+  m_Name: EnemyStats
+  m_EditorClassIdentifier: 
+  OnLevelUp:
+    m_PersistentCalls:
+      m_Calls: []
+  isHero: 0
+  maxHealth: 30
+  currentHealth: 30
+  maxMana: 25
+  currentMana: 10
+  maxWealth: 500
+  currentWealth: 0
+  baseDameage: 0
+  currentDamage: 0
+  baseResistance: 0
+  currentResistance: 0
+  currentEmcumbrance: 0
+  maxEmcumbrance: 50
+  charExperiance: 0
+  charLevel: 1
+  charLevels: []
